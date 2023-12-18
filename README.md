@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **React.js/Next.js**
 
-- 👨‍💻 All of my projects are available at **[MB's PortFolio](mangesh636.github.io)**
+- 👨‍💻 All of my projects are available at **[MB's PortFolio]([mangesh636.github.io](https://github.com/Mangesh636/))**
 
 - 💬 Ask me about **HTML, CSS, Javascript, Dart, React.js, Next.js,, Python, C/C++.**
 
 - 📫 How to reach me **_<mangeshbhardwaj007@gmail.com>_**
 
-- 📄 Know about my experiences **[Mangesh's Resume](jfbdgbdfj)**
+- 📄 Know about my experiences **[Mangesh's Resume]([jfbdgbdfj](https://github.com/Mangesh636/))**
 
 - ⚡ Fun fact **I don't have any Degree yet.**
 
