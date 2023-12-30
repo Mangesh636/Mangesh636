@@ -42,3 +42,9 @@
     <img src="https://skillicons.dev/icons?i=androidstudio,appwrite,astro,bootstrap,c,cs,cpp,cmake,css,dart,django,express,figma,firebase,flutter,codepen,gcp,gradle,git,github,html,java,js,idea,nuxtjs,jquery,kotlin,md,materialui,mongodb,mysql,nextjs,nodejs,php,postgres,postman,prisma,py,react,redux,sass,sqlite,styledcomponents,supabase,svg,tailwind,ts,vite&theme=light&perline=12" />
 </a>
 </p>
+
+---
+
+## 📊 Github Stats
+
+![Github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=mangesh636)
