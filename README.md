@@ -1,21 +1,22 @@
-<h1 align="center">Hi 👋, I'm Mangesh Umesh Bhardwaj</h1>
-![Full Stack Developer](https://github.com/Mangesh636/Mangesh636/assets/104110612/c348b27c-7853-4c6a-8d33-408d688f57b0)
-
 ![Mangesh Bhardwaj](https://komarev.com/ghpvc/?username=angesh636&color=1fbfff&style=plastic)
 
-<h3 align="center">A passionate Frontend Developer, App Developer, & Programming Instructor from India</h3>
+![Mangesh Bhardwaj](https://github.com/Mangesh636/Mangesh636/assets/104110612/c348b27c-7853-4c6a-8d33-408d688f57b0)
 
-- 🔭 I’m currently working on [CodeShala's Lab](sgdfb)
+<h1 align="center">Hi 👋, I'm Mangesh Bhardwaj</h1>
 
-- 🌱 I’m currently learning **React.js/Next.js**
+<h2 align="center">A passionate Full-Stack Developer, App Developer, & Programming Instructor from India.</h2>
 
-- 👨‍💻 All of my projects are available at **[MB's PortFolio](https://github.com/Mangesh636/)**
+- 🔭 I’m currently working on [CodeWithMangesh Github](https://github.com/CodingWithMangesh)
+  
+- 🌱 I’m currently learning **React.JS/Next.JS**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Dart, React.js, Next.js,, Python, C/C++.**
+- 👨‍💻 All of my projects are available at **[CodeWithMangesh YouTube Channel](https://www.youtube.com/@CodeWithMangesh)**
 
-- 📫 How to reach me **_<mangeshbhardwaj007@gmail.com>_**
+- 💬 Ask me about **HTML, CSS, JavaScript, Dart, React.JS/Next.JS, Python, C/C++.**
 
-- 📄 Know about my experiences **[Mangesh's Resume](https://github.com/Mangesh636/)**
+- 📫 How to reach me **_<a href="mailto:mangeshbhardwaj007@gmail.com">Send email</a>_**
+
+- 📄 Know about my experiences **[Mangesh's LinkedIn](https://www.linkedin.com/in/mangeshbhardwaj)**
 
 - ⚡ Fun fact **I don't have any Degree yet.**
 
@@ -24,14 +25,11 @@
 ## 🌐 Connect
 
 <p align="center">
-<!-- <a href="https://twitter.com/mangeshsunny636" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" alt="Twitter" /></a> -->
-<a href="https://linkedin.com/in/mangesh2002" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/></a>
-<a href="https://linkedin.com/in/mangesh2002" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://linkedin.com/in/mangesh2002" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
-<a href="https://instagram.com/codeshala_official" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://twitter.com/mangeshsunny636" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="X"/></a>
-<a href="https://www.youtube.com/@codeshala_official" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="Youtube"/>
-</a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Mangesh"/></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github CodeWithMangesh"/></a>
+<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram CodeWithMangesh"/></a>
+<a href="https://twitter.com/mangeshsunny636" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Mangesh Bhardwaj"/></a>
+<a href="l" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube CodeWithMangesh"/></a>
 </p>
 
 ---
@@ -48,4 +46,4 @@
 
 ## 📊 Github Stats
 
-![Github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=mangesh636)
+![Github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=mangesh636))
