@@ -25,11 +25,11 @@
 ## 🌐 Connect
 
 <p align="center">
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Mangesh"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github CodeWithMangesh"/></a>
-<a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram CodeWithMangesh"/></a>
+<a href="https://www.linkedin.com/in/mangeshbhardwaj" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Mangesh"/></a>
+<a href="https://github.com/CodingWithMangesh" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github CodeWithMangesh"/></a>
+<a href="https://www.instagram.com/codewithmangesh/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram CodeWithMangesh"/></a>
 <a href="https://twitter.com/mangeshsunny636" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X Mangesh Bhardwaj"/></a>
-<a href="l" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube CodeWithMangesh"/></a>
+<a href="https://www.youtube.com/@CodeWithMangesh" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube CodeWithMangesh"/></a>
 </p>
 
 ---
