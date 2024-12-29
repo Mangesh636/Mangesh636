@@ -4,21 +4,19 @@
 
 <h1 align="center">Hi 👋, I'm Mangesh Bhardwaj</h1>
 
-<h2 align="center">A passionate Full-Stack Developer, App Developer, & Programming Instructor from India.</h2>
+<h2 align="center">A passionate Full-Stack Developer & Programming Instructor from India.</h2>
 
 - 🔭 I’m currently working on [CodeWithMangesh Github](https://github.com/CodingWithMangesh)
   
-- 🌱 I’m currently learning **React.JS/Next.JS**
+- 🌱 I’m currently interested in learning **React Native/Expo**
 
 - 👨‍💻 All of my projects are available at **[CodeWithMangesh YouTube Channel](https://www.youtube.com/@CodeWithMangesh)**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Dart, React.JS/Next.JS, Python, C/C++.**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.JS/Next.JS, C/C++.**
 
 - 📫 How to reach me **_<a href="mailto:mangeshbhardwaj007@gmail.com">Send email</a>_**
 
 - 📄 Know about my experiences **[Mangesh's LinkedIn](https://www.linkedin.com/in/mangeshbhardwaj)**
-
-- ⚡ Fun fact **I don't have any Degree yet.**
 
 ---
 
